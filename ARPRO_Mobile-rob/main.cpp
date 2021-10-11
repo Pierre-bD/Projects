@@ -2,9 +2,9 @@
 #include <math.h>
 #include <cmath>
 
-#include <robot.h>
-#include <envir.h>
-#include <sensor.h>
+#include "robot.h"
+#include "envir.h"
+#include "sensor.h"
 
 using namespace std;
 using namespace arpro;
