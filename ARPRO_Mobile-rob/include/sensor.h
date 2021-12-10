@@ -2,8 +2,8 @@
 #define SENSOR_H
 
 #include <string>
-#include "envir.h"
-#include "robot.h"
+#include <envir.h>
+#include <robot.h>
 
 using std::endl;using std::cout;
 

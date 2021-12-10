@@ -2,9 +2,9 @@
 #include <math.h>
 #include <sstream>
 #include <algorithm>
-#include "robot.h"
-#include "envir.h"
-#include "fstream"
+#include <robot.h>
+#include <envir.h>
+#include <fstream>
 
 namespace arpro
 {
@@ -127,7 +127,7 @@ void Environment::plot()
   out.close();
 
   std::stringstream ss;
-  //ss << "python3 " << SCRIPT_PATH << " data.yaml";
+  ss << "python3 " << SCRIPT_PATH << " data.yaml";
   system(ss.str().c_str());
 }
 }

@@ -2,7 +2,7 @@
 #define ENVIR_H
 
 #include <vector>
-#include "geom.h"
+#include <geom.h>
 
 namespace arpro
 {
