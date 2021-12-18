@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "H:/13_Programmation/Project/Projects/Mobile-Robot_VS21/out/build/windows-default/CMakeFiles/lab2.dir/embed.manifest"
