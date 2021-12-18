@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/move_robot.dir/src/main.cpp.o  -o move_robot  -Wl,-rpath,/home/pierro/Programmation/Repo/Projects/ARPRO_Mobile-rob liblab2.so 
